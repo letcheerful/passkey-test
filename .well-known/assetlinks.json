@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.coupang-mobile.lightspeed",
+      "package_name": "com.coupang.mobile.lightspeed",
       "sha256_cert_fingerprints": [
         "B2:9F:DC:6C:3B:01:6D:55:2F:EB:E5:07:B8:8A:DD:89:53:16:30:5C:8B:2D:4F:23:F6:19:75:3B:1E:DE:74:E7",
         "97:34:31:F6:54:7D:43:93:7A:9A:58:0E:53:06:CB:CF:A9:45:56:77:B0:69:41:9F:47:CF:7D:9E:62:15:23:5E"
